@@ -15,7 +15,6 @@
         "README.md"
     ],
     "dependencies": {
-        "jquery": ">=1.11.0",
-        "underscore": "~1.5.2"
+        "jquery": ">=1.11.0"
     }
 }
