@@ -28,7 +28,7 @@
     }
 
     function _formReset($form) {
-        $form.find('.k-form-entry').removeClass('error');
+        $form.find('.k-form-entry').removeClass('error has-error');
     }
 
     function _formValues($form) {

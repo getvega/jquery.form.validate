@@ -1,6 +1,6 @@
 {
     "name": "jquery.form.validate",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "jquery.form.validate.js",
     "ignore": [
         "source",
